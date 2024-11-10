@@ -44,7 +44,6 @@ Output:
 
 // Step 05
 const colors = ['red', 'blue', 'green', 'yellow', 'orange'];
-
 let i = 0;
 const rev_color =[];
 while(i<colors.length){
